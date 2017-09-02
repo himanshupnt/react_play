@@ -1,13 +1,4 @@
-# A Complete Intro to React
-
-Welcome to a complete intro to React! The site actual workshop material for this repo can be found [here][gh-page]. On the master branch you will find the completed project. On the start branch you will find the barebones boilerplater of the project designed to help you get started.
-
-## Contributing
-
-Please contribute, file issues, and make PRs. More than anything I'm sure there are typos abounding.
-
-## License
-
-MIT
-
-[gh-page]: http://btholt.github.io/complete-intro-to-react/
+# Exploring React
+## eslint troubleshooting - install eslint globally for node version being
+used (nvm) to make it work from the command line (eslint **/*.{js,jsx} --quiet)
+## remove args from sublime linter settings under linters > eslint
